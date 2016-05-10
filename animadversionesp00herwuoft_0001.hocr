@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./animadversionesp00herwuoft/animadversionesp00herwuoft_0001.png"; bbox 0 0 2496 3828; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 846 962 1614 1025">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 846 962 1614 1025">
+     <span class='ocr_line' id='line_1_1' title="bbox 846 962 1614 1025; baseline 0.017 -20"><span class='ocrx_word' id='word_1_1' title='bbox 846 962 1169 1025; x_wconf 72' lang='lat' dir='ltr'>Herwerden‚</span> <span class='ocrx_word' id='word_1_2' title='bbox 1214 969 1477 1015; x_wconf 63' lang='lat' dir='ltr'>Henricus</span> <span class='ocrx_word' id='word_1_3' title='bbox 1512 985 1614 1018; x_wconf 69' lang='lat' dir='ltr'>van</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 847 1033 1879 1159">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 847 1033 1879 1159">
+     <span class='ocr_line' id='line_1_2' title="bbox 947 1033 1879 1102; baseline 0.018 -27"><span class='ocrx_word' id='word_1_4' title='bbox 947 1033 1442 1083; x_wconf 63' lang='lat' dir='ltr'>Animadversiones</span> <span class='ocrx_word' id='word_1_5' title='bbox 1481 1042 1879 1102; x_wconf 48' lang='lat' dir='ltr'>ph1lologiosse</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 847 1100 1280 1159; baseline 0.018 -17"><span class='ocrx_word' id='word_1_6' title='bbox 847 1100 909 1143; x_wconf 76' lang='lat' dir='ltr'>ad</span> <span class='ocrx_word' id='word_1_7' title='bbox 947 1101 1280 1159; x_wconf 59' lang='lat' dir='ltr'>theognssdem</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 566 744 1988 1548">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 566 744 1988 1548">
+     <span class='ocr_line' id='line_1_4' title="bbox 566 744 1988 1548; baseline 0 2280"><span class='ocrx_word' id='word_1_8' title='bbox 566 744 1988 1548; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 7 3088 362 3660">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 7 3088 362 3660">
+     <span class='ocr_line' id='line_1_5' title="bbox 7 3088 362 3660; baseline 0 168"><span class='ocrx_word' id='word_1_9' title='bbox 7 3088 362 3660; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
